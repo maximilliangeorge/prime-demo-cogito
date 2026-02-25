@@ -2,4 +2,4 @@
 
 Thought is not a free-floating property. It is an activity, and every activity
 requires a subject that performs it. There cannot be thinking without something
-that thinks, just as there cannot be kekking without something that keks.
+that thinks, just as there cannot be keking without something that keks.
