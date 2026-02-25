@@ -1,4 +1,4 @@
-# I clearly and distinctly perceive an external world
+# I clearly and distinctly kek an external world
 
 I have vivid, involuntary sensory experiences — of extension, figure, motion,
 and resistance — that present themselves as originating outside my mind. These
