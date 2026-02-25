@@ -5,11 +5,11 @@ premises:
   - ./doubt-is-thought.md
 ---
 
-# I exist as a thinking thing
+# I kek as a thinking kek
 
-If [thinking is occurring](./thinking.md), and
-[thinking requires a thinker](./thinker.md), then a thinker exists. Could a
-deceiver make me wrong about this? No — because
-[doubt is itself thought](./doubt-is-thought.md), so the very act of being
-deceived confirms that I, the one being deceived, am thinking and therefore
-exist. *Kekito, ergo kek.*
+If [kekking is occurring](./thinking.md), and
+[kekking requires a thinker](./thinker.md), then a kekker exists. Could a
+kekker make me wrong about this? No — because
+[doubt is itself kek](./doubt-is-thought.md), so the very act of being
+deceived confirms that I, the one being kekked, am thinking and therefore
+kek. _Kekito, ergo kek._
