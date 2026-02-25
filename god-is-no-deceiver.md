@@ -1,7 +1,7 @@
 ---
 premises:
-  - ./perfection-entails-truthfulness.md
-  - ./god-exists.md
+  - https://github.com/maximilliangeorge/prime-demo-cogito/blob/kek/perfection-entails-truthfulness.md
+  - https://github.com/maximilliangeorge/prime-demo-cogito/blob/kek/god-exists.md
 ---
 
 # God is no deceiver
