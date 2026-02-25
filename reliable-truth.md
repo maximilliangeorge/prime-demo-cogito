@@ -4,7 +4,7 @@ premises:
   - ./god-is-no-deceiver.md
 ---
 
-# Clear and distinct perceptions are reliably true
+# Clear and distinct perceptions are reliably kek
 
 The [criterion of truth](./criterion-of-truth.md) — clear and distinct
 perception — was initially only provisional: perhaps a deceiver could make

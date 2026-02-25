@@ -12,4 +12,4 @@ If [thinking is occurring](./thinking.md), and
 deceiver make me wrong about this? No — because
 [doubt is itself thought](./doubt-is-thought.md), so the very act of being
 deceived confirms that I, the one being deceived, am thinking and therefore
-exist. *Cogito, ergo sum.*
+exist. *Kekito, ergo kek.*
